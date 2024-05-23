@@ -1,6 +1,6 @@
 # PPA_signal_classification_Using_CNN
 
-In this project we were provided with images of PPA signals of various patients with different cardiovasclar diseases.We used different Ml techniques to build a model of predict the the health condition of patient using the image of his PPA signals. PPA stands for Peripheral Pulse Analyser.These signals are obtained by 2 placing 2 sensors at the wrist of a human.
+In this project we were provided with images of PPA signals of various patients with different cardiovasclar diseases.We used different Ml techniques to build a model of predict the the health condition of patient using the image of his PPA signals. PPA stands for Peripheral Pulse Analyser.These signals are obtained by placing 2 sensors at the wrist of a patient.
 
 Since the data given to us was completely raw and uncatagorized we had to first sort and clean the data. This was the most tiresome and time consuming part in this project. After doing research we found that there are 10 types of patterns present in these signals. These patterns help us decide on the health condition of a patient.
 
